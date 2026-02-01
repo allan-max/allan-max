@@ -1,16 +1,33 @@
-## Hi there 👋
+# 🚀 allan_max
 
-<!--
-**allan-max/allan-max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Estudante de Ciência da Computação com experiência em automação de processos, suporte
+técnico e desenvolvimento de soluções para otimização de tarefas. Apaixonado por tecnologia,
+com facilidade de aprendizado, raciocínio lógico apurado e foco em evolução constante na área
+de desenvolvimento de software.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias utilizadas
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
+
+---
+
+## 📌 Sobre o projeto
+
+Este projeto foi desenvolvido com foco em:
+
+- 🎯 Performance  
+- 🎨 Automação
+- 📱 Resolução de problemas 
+- 🧠 Código limpo e organizado  
+
+---
+
+
+### 🔹 Linguagens 
+- Python 3.x  
+- Node.js  
