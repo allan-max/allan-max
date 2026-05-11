@@ -2,7 +2,7 @@
 
 > Estudante de Ciência da Computação com experiência em automação de processos, suporte
 técnico e desenvolvimento de soluções para otimização de tarefas. Vontade de aprender,
-raciocínio lógico apurado e foco em evolução constante na área
+raciocínio lógico e foco em evolução constante na área
 de desenvolvimento de software.
 
 ---
