@@ -35,10 +35,10 @@ Estudante de **Ciência da Computação** com experiência em **automação de p
 <tr>
 <td width="50%" valign="top">
 
-#### 🔎 [Consulta360](https://github.com/allan-max/Consulta360)
-Consultas de CNPJ, CPF, veículos, CEP, FIPE e mais em um só lugar.
+#### 🧭 [Portais Maestro](https://github.com/allan-max/portaismaestro)
+Painel web para acompanhamento de cotações dos vendedores, com dashboard administrativo e atualizações em tempo real.
 
-`HTML` `JavaScript`
+`Node.js` `Express` `Socket.io`
 
 </td>
 <td width="50%" valign="top">
@@ -61,10 +61,10 @@ Ferramenta para coleta automática de datasheets de produtos.
 </td>
 <td width="50%" valign="top">
 
-#### ♻️ [recyling](https://github.com/allan-max/recyling)
-Plataforma para planejar e gerenciar ações sociais e reaproveitamento de resíduos.
+#### 🎛️ [Gerenciador Maestro](https://github.com/allan-max/gerenciador-maestro)
+Orquestrador dos robôs de automação: inicia, monitora e reinicia os bots, com logs, resposta a cotações e integração com planilhas.
 
-`HTML` `CSS`
+`Python` `Automação` `Bots`
 
 </td>
 </tr>
