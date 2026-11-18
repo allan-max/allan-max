@@ -10,12 +10,12 @@
 
 ### Sobre mim
 
-Estudante de **Ciência da Computação** com experiência em **automação de processos**, **suporte técnico** e desenvolvimento de soluções para otimizar tarefas do dia a dia.
+Estudante de **Ciência da Computação** na UVV e estagiário em desenvolvimento de software na **Ventura Informática**, onde construo os sistemas de automação usados no dia a dia da equipe comercial.
 
-- Crio bots e automações que economizam horas de trabalho manual
-- Desenvolvo sistemas web e ferramentas internas
-- Raciocínio lógico, código limpo e foco em evolução constante
-- Atualmente aprofundando em **Node.js** e boas práticas de software
+- Desenvolvo robôs de **RPA** e **web scraping** com Python e Selenium que respondem cotações em portais de compras como Coupa, Ariba e Compras.gov
+- Integro APIs de **LLMs** (Claude, Gemini e Groq) para extrair dados estruturados e interpretar mensagens em texto livre
+- Crio aplicações web e APIs REST com **Node.js**, Express, Socket.IO e Flask
+- Mantenho sistemas em produção com testes automatizados, **CI/CD no GitHub Actions** e deploy com rollback automático
 
 ---
 
