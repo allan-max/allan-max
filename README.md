@@ -8,18 +8,18 @@
 
 ---
 
-### 👨‍💻 Sobre mim
+### Sobre mim
 
 Estudante de **Ciência da Computação** com experiência em **automação de processos**, **suporte técnico** e desenvolvimento de soluções para otimizar tarefas do dia a dia.
 
-- ⚙️ Crio bots e automações que economizam horas de trabalho manual
-- 🌐 Desenvolvo sistemas web e ferramentas internas
-- 🧠 Raciocínio lógico, código limpo e foco em evolução constante
-- 🌱 Atualmente aprofundando em **Node.js** e boas práticas de software
+- Crio bots e automações que economizam horas de trabalho manual
+- Desenvolvo sistemas web e ferramentas internas
+- Raciocínio lógico, código limpo e foco em evolução constante
+- Atualmente aprofundando em **Node.js** e boas práticas de software
 
 ---
 
-### 🛠️ Tecnologias
+### Tecnologias
 
 <div align="center">
 
@@ -29,13 +29,13 @@ Estudante de **Ciência da Computação** com experiência em **automação de p
 
 ---
 
-### 🚀 Projetos em destaque
+### Projetos em destaque
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-#### 🧭 [Portais Maestro](https://github.com/allan-max/portaismaestro)
+#### [Portais Maestro](https://github.com/allan-max/portaismaestro)
 Painel web para acompanhamento de cotações dos vendedores, com dashboard administrativo e atualizações em tempo real.
 
 `Node.js` `Express` `Socket.io`
@@ -43,7 +43,7 @@ Painel web para acompanhamento de cotações dos vendedores, com dashboard admin
 </td>
 <td width="50%" valign="top">
 
-#### 🤖 [robo-findes](https://github.com/allan-max/robo-findes)
+#### [robo-findes](https://github.com/allan-max/robo-findes)
 Bot que monitora novas licitações do FINDES aplicando os filtros da empresa.
 
 `Python` `Automação`
@@ -53,7 +53,7 @@ Bot que monitora novas licitações do FINDES aplicando os filtros da empresa.
 <tr>
 <td width="50%" valign="top">
 
-#### 📄 [datasheetget](https://github.com/allan-max/datasheetget)
+#### [datasheetget](https://github.com/allan-max/datasheetget)
 Ferramenta para coleta automática de datasheets de produtos.
 
 `Python` `Web Scraping`
@@ -61,7 +61,7 @@ Ferramenta para coleta automática de datasheets de produtos.
 </td>
 <td width="50%" valign="top">
 
-#### 🎛️ [Gerenciador Maestro](https://github.com/allan-max/gerenciador-maestro)
+#### [Gerenciador Maestro](https://github.com/allan-max/gerenciador-maestro)
 Orquestrador dos robôs de automação: inicia, monitora e reinicia os bots, com logs, resposta a cotações e integração com planilhas.
 
 `Python` `Automação` `Bots`
@@ -72,7 +72,7 @@ Orquestrador dos robôs de automação: inicia, monitora e reinicia os bots, com
 
 ---
 
-### 📊 Estatísticas
+### Estatísticas
 
 <div align="center">
 
